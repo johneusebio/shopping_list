@@ -14,7 +14,7 @@
 
     <script src="node_modules\requirejs\require.js">
         const electron = require('electron');
-        const {} = electron;
+        const {ipcRenderer} = electron;
 
         const form = document.querySelector('form');
         form.addEventListener('submit', submitForm);
