@@ -9,6 +9,7 @@
   "author": "John Eusebio",
   "license": "MIT",
   "dependencies": {
+    "browserify": "^16.5.1",
     "electron": "^8.2.1",
     "requirejs": "^2.3.6"
   }
