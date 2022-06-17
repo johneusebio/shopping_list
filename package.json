@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "browserify": "^16.5.1",
-    "electron": "^8.2.1",
+    "electron": "^15.5.5",
     "requirejs": "^2.3.6"
   }
 }
